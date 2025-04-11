@@ -17,11 +17,11 @@ public class basic {
     // System.out.println("Subtraction:" + (a-b) );
     // System.out.println("Division:" + (a/b));
      //System.out.println("Multiplication:" + (a*b));
-     int n=8;
-     if(n%2==0)
-     System.out.println("Even");
-     else
-     System.out.println("Odd");
+    // int n=8;
+     //if(n%2==0)
+    // System.out.println("Even");
+     //else
+    // System.out.println("Odd");
       
     }
     

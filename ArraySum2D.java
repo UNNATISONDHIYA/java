@@ -12,4 +12,3 @@ public class ArraySum2D {
         System.out.println("Total SUM:" + sum);
 }
 }
-

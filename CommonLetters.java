@@ -1,7 +1,8 @@
+package String;
 public class CommonLetters {
     public static void main(String[] args) {
-        String str1 = "rat";
-        String str2 = "bat";
+        String str1 = "hello";
+        String str2 = "hello";
         int count = 0;
         for(int i=0;i<str1.length();i++)
         {

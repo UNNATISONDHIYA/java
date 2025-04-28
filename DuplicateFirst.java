@@ -8,7 +8,7 @@ public class DuplicateFirst {
             {
                 if(ch[i]==ch[j])
                 {
-                    System.out.print(ch[j]);
+                    System.out.print(ch[i]);
                     return;
                 }
             }

@@ -1,4 +1,4 @@
-package string;
+//package string;
 public class Printstring {
     public static void main(String[] args) {
         String str = "hello";

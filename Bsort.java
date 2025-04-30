@@ -11,6 +11,7 @@ public class Bsort {
                    arr[j]=arr[j+1];
                    arr[j+1]=temp;
                 }
+                
             }
         }
         System.out.println("Sorted Array:");

@@ -30,6 +30,6 @@ public class CalculatorC {
         System.out.println(num1 + " - " + num2 + " = " + calc.subtract(num1, num2));
         System.out.println(num1 + " * " + num2 + " = " + calc.multiply(num1, num2));
         System.out.println(num1 + " / " + num2 + " = " + calc.divide(num1, num2));
-        //System.out.println(num1 + " / 0 = " + calc.divide(num1, 0));
+        System.out.println(num1 + " / 0 = " + calc.divide(num1, 0));
     }
 }

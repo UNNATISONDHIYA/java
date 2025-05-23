@@ -4,7 +4,7 @@ public class Exception_Handling {
         try {
             System.out.println(arr[5]);
         } catch (Exception e) {
-            System.out.println("Array index out of bound");
+            System.out.println("Exception Occurred:" +e);
         }finally{
             System.out.println("process completed !!");
         }

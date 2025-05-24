@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
-class UseOfArraylist
+class UseOfPredefinedFunctions
 {
     public static void main(String[] args) {
         // ArrayList<String> arr = new ArrayList<>();

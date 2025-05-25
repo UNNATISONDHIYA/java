@@ -5,7 +5,7 @@ public class Test {
         try {
             System.out.println(str.length());
         } catch (Exception e) {
-            System.out.println("Ste is null !");
+            System.out.println("Str is null !");
         }
     }
     

@@ -32,8 +32,8 @@ public class CollectionFramework2 {
     ArrayList<Student> list = new ArrayList<>();
     list.add(new Student(12,"Avni", 20));
     list.add(new Student(123,"Unnati", 19));
-    list.add(new Student(23,"Khushi",23));
-    list.add(new Student(32,"Ayushi",22));
+    list.add(new Student(2893,"Khushi",23));
+    list.add(new Student(032,"Satyam",22));
     System.out.println("Lets sort it by Name:");
     Collections.sort(list, new SortByName());
     for(Student s: list){

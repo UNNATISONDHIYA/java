@@ -7,7 +7,7 @@ public class RunnableTraditional {
         list.add("rahul");
         list.add("rohit");
         list.add("mohit");
-        // Collections.sort(list,new Comparator<String>(){
+        // Collections.sort(list,new Comparator<String>(){       //old way
         //     public int compare(String a,String b)
         //     {
         //        return a.compareTo(b);

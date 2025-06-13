@@ -19,7 +19,7 @@ class Account{
     private   String name;
     private   double balance;
     ArrayList<Transactions> transaction=new ArrayList<>();
-
+    
     public Account(int accountNumber,String name,double balance) {
         this.accountNumber=accountNumber;
         this.name=name;
